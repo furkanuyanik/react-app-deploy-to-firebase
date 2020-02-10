@@ -24,10 +24,23 @@ or
 ``firebase init``
 
 #### Are you ready to proceed? (Y/n) : Yes
-#### Which Firebase CLI features do you want to set up for this folder? : (Selected Hosting) 
-##### ( ) Database
-##### ( ) Firestore
-##### ( ) Functions
-##### (*) Hosting
-##### ( ) Storage
-##### ( ) Emulators
+#### Which Firebase CLI features do you want to set up for this folder? : (Selected -> Hosting) 
+``
+() Database
+( ) Firestore
+( ) Functions
+(*) Hosting
+( ) Storage
+( ) Emulators
+``
+
+#### Please select an option: (Selected -> Use an existing project)
+#### Select a default Firebase project for this directory: (Selected -> furkanuyanik-1234)
+#### What do you want to use as your public directory: build
+#### Configure as a single-page app (rewrite all urls to /index.html)? (y/N) : No
+#### File build/index.html already exists. Overwrite? (y/N) : No
+
+## 7. Deploy Firebase
+``firebase deploy``
+
+# Deploy Completed!
