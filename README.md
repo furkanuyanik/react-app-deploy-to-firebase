@@ -1,5 +1,5 @@
 # react-app-deploy-to-firebase
-How to deploy a React Application to Firebase
+How to deploy a React Application to Firebase?
 
 
 ## 1. Create a React App
@@ -42,5 +42,6 @@ or
 
 ## 7. Deploy Firebase
 ``firebase deploy``
+
 
 # Deploy Completed!
