@@ -11,3 +11,6 @@ How to deploy a React Application to Firebase
 
 ## 3. Login at Firebase account
 ``firebase login``
+
+## 4. Create a Project from Firebase Console
+### Sample name "furkan-uyanik" for me.
