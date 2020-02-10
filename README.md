@@ -1,6 +1,7 @@
 # react-app-deploy-to-firebase
 How to deploy a React Application to Firebase?
 
+![Deployed React App](/screenshot1.png)
 
 ## 1. Create a React App
 ``yarn create react-app example-app``
