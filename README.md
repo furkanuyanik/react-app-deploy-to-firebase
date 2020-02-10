@@ -5,6 +5,7 @@ How to deploy a React Application to Firebase?
 
 ## 1. Create a React App
 ``yarn create react-app example-app``
+and
 ``cd example-app``
 
 ## 2. Install package "firebase-tools"
